@@ -6,7 +6,7 @@ I'm a **Data & AI professional** with a **Master’s in Artificial Intelligence 
 - 🖥️ Previously at **Ingram Micro**, I developed **production-grade backend tools** and integrated systems following software engineering best practices.
 
 
-🚀 Currently, I’m exploring **efficient deep learning** and **multimodal systems**, with a strong focus on **interpretable, deployment-ready ML solutions**.
+🚀 Currently, I’m exploring **deep learning**, **agentic** and **multimodal systems**, with a strong focus on **interpretable, deployment-ready ML solutions**.
 
 <!--
 **gokulnambiar/gokulnambiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
