@@ -1,8 +1,12 @@
-## 👋 Hi, I’m Gokul - a Data & AI professional with a Master’s in Artificial Intelligence and Data Science and experience across analytics, backend development, and applied machine learning.
+## 👋 Hi, I’m Gokul
 
-I’ve worked on building scalable data pipelines, forecasting models, and dashboarding at Daimler Buses, and built production-grade backend tools at Ingram Micro. My project portfolio spans transformer-based NLP, GANs for image enhancement, and structured ML workflows with tools like PySpark, DBT, and Azure Databricks.
+I'm a **Data & AI professional** with a **Master’s in Artificial Intelligence and Data Science** and experience across analytics, backend development, and applied machine learning.
 
-Currently exploring efficient deep learning, and multimodal systems — with a strong focus on building interpretable, deployment-ready ML solutions.
+- 🚌 At **Daimler Buses**, I built **scalable data pipelines**, **forecasting models**, and **KPI dashboards** to support fleet analytics.
+- 🖥️ Previously at **Ingram Micro**, I developed **production-grade backend tools** and integrated systems following software engineering best practices.
+
+
+🚀 Currently, I’m exploring **efficient deep learning** and **multimodal systems**, with a strong focus on **interpretable, deployment-ready ML solutions**.
 
 <!--
 **gokulnambiar/gokulnambiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
