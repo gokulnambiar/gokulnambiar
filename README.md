@@ -8,6 +8,9 @@ I'm a **Data & AI professional** with a **Master’s in Artificial Intelligence 
 
 🚀 Currently, I’m exploring **deep learning**, **agentic** and **multimodal systems**, with a strong focus on **interpretable, deployment-ready ML solutions**.
 
+
+![Profile views](https://profile-counter.glitch.me/gokulnambiar/count.svg)
+
 <!--
 **gokulnambiar/gokulnambiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
